@@ -8,13 +8,13 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : SQL Sharper -  Make your SSMS2012 More Sharper
-tagline: Site Tagline
+title : CnSharp Studio
+tagline: Make C# great again.
 author :
   name : CnSharp Studio
   email : support@cnsharp.com
   github : cnsharp
-  twitter : 
+  twitter : CnSharpStudio
   feedburner : 
 
 # The production_url is only used when full-domain names are needed
@@ -25,7 +25,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://cnsharp.github.io
+production_url : https://cnsharp.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -100,7 +100,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-46152772-1'
+        tracking_id : 'G-2NQ87E5M26'
     getclicky :
       site_id : 
     mixpanel :
